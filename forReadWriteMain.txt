@@ -1,0 +1,7 @@
+<html>
+  <head><title>My HTTP Server</title></head>
+  <body>
+    <h1>Welcome to My HTTP Server!</h1>
+    <p>This is a simple HTML response from the Node.js server.</p>
+  </body>
+</html>

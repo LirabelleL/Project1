@@ -1,0 +1,10 @@
+<html>
+  <head><title>Message Page</title></head>
+  <body>
+    <h1>Leave a Message</h1>
+    <form action="/message" method="POST">
+      <input type="text" name="message">
+      <button type="submit">Send</button>
+    </form>
+  </body>
+</html>
